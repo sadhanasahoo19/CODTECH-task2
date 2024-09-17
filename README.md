@@ -6,6 +6,7 @@ DOMAIN: WEB DEVELOPMENT
 DURATION: AUGUST TO SPETEMBER 2024
 
 Project Overview: Weather Forecast App
+![Screenshot 2024-09-17 092836](https://github.com/user-attachments/assets/019348ac-8ea5-4f05-ba33-25e660b896b3)
 A.Objective:
 The Weather Forecast App is designed to provide users with current weather information based on a specified location. This web application allows users to enter a location name and receive real-time data on temperature, humidity, and wind speed. Additionally, the app displays relevant weather icons to enhance the user experience. The primary goal is to deliver a functional and visually appealing tool that demonstrates the integration of web technologies with an external weather API.
 
